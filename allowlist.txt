@@ -28,3 +28,4 @@ usefathom.com
 customer.io
 partners.shopify.com
 fivetran.com
+segment.com
