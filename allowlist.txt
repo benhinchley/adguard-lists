@@ -29,3 +29,4 @@ customer.io
 partners.shopify.com
 fivetran.com
 segment.com
+*.segment.com
